@@ -13,3 +13,8 @@ h1, h2, h3, p {
 	padding-bottom: 20px;
 	text-align: center;
 }
+
+li {
+	color: aqua;
+	background: red;
+}
